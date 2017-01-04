@@ -1,0 +1,16 @@
+ls -l
+ls -a
+ls -c -lt
+date
+date -u
+ls | wc
+cal
+cal -h
+cal -e
+cal -j
+ls -c -lt | sort
+cal -j -e
+cal -m 9
+cal -M
+ncal
+ls -l | wc
