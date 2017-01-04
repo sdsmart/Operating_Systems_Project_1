@@ -1,6 +1,6 @@
 /*
 *************************
-** Homework 2          **
+** Project 1           **
 ** Due: September 21   **
 **                     **
 ** Name: Stephen Smart **
