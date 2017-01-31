@@ -1,14 +1,4 @@
-/*
-*************************
-** Project 1           **
-** Due: September 21   **
-**                     **
-** Name: Stephen Smart **
-** ID: 113851356       **
-*************************
-*/
-
-
+// Includes
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
